@@ -78,7 +78,7 @@ Le cœur du système repose sur un **portail d'automatisation** développé en P
 
 Schéma de l'infrastructure du projet : 
 
-<p align="center"> <img src="img/administrer_infra.jpg" alt="Capture" width="800"> </p>
+<p align="center"> <img src="img/administrer_architec.jpg" alt="Capture" width="800"> </p>
 
 L'application d'automatisation (Portail Web) est structurée comme suit :
 
