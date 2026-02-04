@@ -161,7 +161,9 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 
 <br>
 
-<p align="center"> <img src="img/administrer_proxmox.jpg" alt="Capture d'écran du Proxmox" width="800"> </p></br>
+<p align="center"> <img src="img/administrer_proxmox.jpg" alt="Capture d'écran du Proxmox" width="800"> </p>
+
+<br>
 
 ### Phase 2 : Sécurisation & Routage (pfSense)
 
@@ -171,7 +173,9 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 
 <br>
 
-<p align="center"> <img src="img/administrer_pfsense.jpg" alt="Capture d'écran de la Pfsense" width="800"> </p><br>
+<p align="center"> <img src="img/administrer_pfsense.jpg" alt="Capture d'écran de la Pfsense" width="800"> </p>
+
+<br>
 
 ### Phase 3 : Services d'Annuaire (Active Directory)
 
@@ -181,7 +185,9 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 
 <br>
 
-<p align="center"> <img src="img/administrer_ad.jpg" alt="Capture d'écran de l'AD" width="800"> </p></br>
+<p align="center"> <img src="img/administrer_ad.jpg" alt="Capture d'écran de l'AD" width="800"> </p>
+
+<br>
 
 ### Phase 4 : Passerelle d'Accès (Apache Guacamole)
 
@@ -191,7 +197,9 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 
 <br>
 
-<p align="center"> <img src="img/administrer_guacamole.png" alt="Capture d'écran du Portail Web" width="800"> </p><br>
+<p align="center"> <img src="img/administrer_guacamole.png" alt="Capture d'écran du Portail Web" width="800"> </p>
+
+<br>
 
 ### Phase 5 : Automatisation & Portail Web
 
@@ -201,7 +209,9 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 
 <br>
 
-<p align="center"> <img src="img/administrer_portailwebcreavm.png" alt="Capture d'écran du Portail Web" width="800"> </p><br>
+<p align="center"> <img src="img/administrer_portailwebcreavm.png" alt="Capture d'écran du Portail Web" width="800"> </p>
+
+<br>
 
 ### Phase 6 : Golden Images & Intégration
 
