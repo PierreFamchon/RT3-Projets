@@ -1,0 +1,76 @@
+<div align="center">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/8297/8297437.png" alt="Logo Portfolio RT3" width="120" height="120">
+
+  # Portfolio Projets - BUT R&T (3ème Année)
+  
+  **Virtualisation, Automatisation & Réponse à Incident (Cyber)**
+
+  ![School](https://img.shields.io/badge/IUT-R%26T-cd0037?style=for-the-badge&logo=school&logoColor=white)
+  ![Year](https://img.shields.io/badge/Ann%C3%A9e-2025%2F2026-blue?style=for-the-badge)
+  ![Level](https://img.shields.io/badge/Niveau-BUT%203-orange?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-En%20Cours-success?style=for-the-badge)
+
+  <br>
+
+  [Description](#-description) •
+  [Structure du Dépôt](#-structure-du-dépôt) •
+  [Détail des Semestres](#-détail-des-semestres) •
+  [Auteur](#-auteur)
+
+</div>
+
+---
+
+## 📝 Description
+
+Ce dépôt regroupe les projets de ma troisième et dernière année de BUT R&T.
+
+Cette année de spécialisation se concentre sur la conception d'architectures complexes (Cloud/VDI), l'automatisation avancée (DevOps) et la cybersécurité défensive opérationnelle (Réponse à incident / SOC), ainsi que le stage de fin d'études.
+
+---
+
+## 📂 Structure du Dépôt
+
+Voici l'organisation des projets présents dans ce répertoire :
+
+```text
+📂 DevOps-SecOps-Automatisation/                 
+│
+├── 📂 Advanced-Solution-Design/             
+│   └── 📂 Enterprise-Infrastructure-Project 
+│
+└── 📂 Cyber-Defense-Operations/              
+    ├── 📂 End-of-Studies-Internship         
+    └── 📂 Incident-Response-Forensics       
+```
+
+## 🎓 RT3 - Détail des Semestres : 📂 [DevOps-Security-Automatisation/](./)
+
+### **📈 BUT SEMESTRE 5 :  📂 [Advanced-Solution-Design/](./Advanced-Solution-Design)**
+
+<br> 
+
+| Projet | Thématique | Technologies Clés |
+| :--- | :--- | :--- |
+| **📂 [Enterprise-Infrastructure-Project](./Advanced-Solution-Design/Enterprise-Infrastructure-Project)** | **Infrastructure VDI & Auto.**<br>Solution d'accès distant aux TP. | ![Proxmox](https://img.shields.io/badge/Virt-Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Guacamole](https://img.shields.io/badge/Gateway-Guacamole-256627?style=flat-square&logo=apache&logoColor=white) <br> ![Python](https://img.shields.io/badge/Auto-Python_Flask-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+<br>
+
+### **📈 BUT SEMESTRE 6 :  📂 []()**
+
+<br> 
+
+| Projet | Thématique | Technologies Clés |
+| :--- | :--- | :--- |
+| **📂 End-of-Studies-Internship** | **Stage de Fin d'Études**<br>Immersion professionnelle et mémoire. | ![Pro](https://img.shields.io/badge/Type-Professionnel-blueviolet?style=flat-square) ![Rapport](https://img.shields.io/badge/Doc-M%C3%A9moire-lightgrey?style=flat-square) |
+| **📂 Incident-Response-Forensics** | **Réponse à Incident**<br>Réagir face à une cyber-attaque. | ![BlueTeam](https://img.shields.io/badge/Sec-Blue_Team-blue?style=flat-square) ![SOC](https://img.shields.io/badge/Ops-SOC%2FSIEM-red?style=flat-square) |
+
+---
+
+### 👤 Auteur
+
+Pierre Famchon
+
+* Étudiant en BUT R&T (Réseaux et Télécommunications).
+* Passionné par l'automatisation, la cybersécurité et l'architecture réseau.
