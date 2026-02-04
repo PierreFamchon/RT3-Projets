@@ -159,8 +159,7 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 * Configuration réseau avancée avec la création d'un pont Linux (vmbr0) isolé pour le LAN interne.
 * Configuration du proxy système pour permettre les mises à jour et l'installation des paquets nécessaires.
 
-<p align="center"> <img src="img/administrer_proxmox.jpg" alt="Capture d'écran du Proxmox" width="800"> </p>
-<\br>
+<p align="center"> <img src="img/administrer_proxmox.jpg" alt="Capture d'écran du Proxmox" width="800"> </p></br>
 
 ### Phase 2 : Sécurisation & Routage (pfSense)
 
@@ -168,8 +167,7 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 * Configuration des interfaces WAN (DHCP) et LAN (Statique).
 * Mise en place du NAT Outbound pour l'accès Internet des VMs et du Port Forwarding (8080) pour exposer le portail Guacamole.
 
-<p align="center"> <img src="img/administrer_pfsense.jpg" alt="Capture d'écran de la Pfsense" width="800"> </p>
-<br\>
+<p align="center"> <img src="img/administrer_pfsense.jpg" alt="Capture d'écran de la Pfsense" width="800"> </p></br>
 
 ### Phase 3 : Services d'Annuaire (Active Directory)
 
@@ -177,8 +175,7 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 * Configuration des services DNS avec zones de recherche directes et inversées pour la résolution interne.
 * Structuration de l'annuaire via des Unités d'Organisation (OU) et création des comptes de service pour la liaison LDAP.
 
-<p align="center"> <img src="img/administrer_ad.jpg" alt="Capture d'écran de l'AD" width="800"> </p>
-<br/>
+<p align="center"> <img src="img/administrer_ad.jpg" alt="Capture d'écran de l'AD" width="800"> </p></br>
 
 ### Phase 4 : Passerelle d'Accès (Apache Guacamole)
 
@@ -186,8 +183,7 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 * Mise en place d'une authentification hybride : LDAP (AD) pour les utilisateurs et MySQL pour les configurations techniques.
 * Résolution des problèmes de dépendances LDAP via l'ajout manuel des bibliothèques Java nécessaires.
 
-<p align="center"> <img src="img/administrer_guacamole.png" alt="Capture d'écran du Portail Web" width="800"> </p>
-</br>
+<p align="center"> <img src="img/administrer_guacamole.png" alt="Capture d'écran du Portail Web" width="800"> </p></br>
 
 ### Phase 5 : Automatisation & Portail Web
 
@@ -195,7 +191,7 @@ Le projet a été mené en plusieurs phases successives, partant de l'installati
 * Intégration des APIs REST de Proxmox (gestion des VMs) et de Guacamole (gestion des sessions).
 * Implémentation d'un Workflow DNS prédictif permettant une connexion instantanée aux machines sans attendre la remontée DHCP.
 
-<p align="center"> <img src="img/administrer_portailwebcreavm.png" alt="Capture d'écran du Portail Web" width="800"> </p>
+<p align="center"> <img src="img/administrer_portailwebcreavm.png" alt="Capture d'écran du Portail Web" width="800"> </p></br>
 
 ### Phase 6 : Golden Images & Intégration
 
